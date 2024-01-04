@@ -1,4 +1,4 @@
 ### Hi there 👋
 - 🎓 I'm currently studying Computer Science - Software Development
-- 🌱 I’m learning Python, Java, JavaScript and C++
+- 🌱 Learning to be a programmer
 - 💡 I am interested in game dev and AI
