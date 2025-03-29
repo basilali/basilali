@@ -8,13 +8,12 @@ const about_me = {
     "last_name": "Ali", 
     "location": "Ontario, Canada",
     "role": "Software Dev Student",
-    "learning": [
+    "learning":
         "How to build intelligent chatbots, " +
         "design NLP systems, " +
         "apply machine learning techniques, " +
         "create goal-based agents, " +
         "and critically assess real-world AI issues"
-    ]
 }
 
 const links = {
