@@ -1,12 +1,16 @@
 
 ```javascript
-// Hello World, my name is Basil Ali
+// Hello World! My name is Basil Ali!
+// I make computers do things
 
 const about_me = {
     "first_name": "Basil", 
     "last_name": "Ali", 
     "location": "Ontario, Canada",
-    "role": "Software Dev Student"
+    "role": "Software Dev Student",
+    "learning": [
+        "How to build intelligent chatbots, design NLP systems, apply machine learning techniques, create goal-based agents, and critically assess real-world AI issues"
+    ]
 }
 
 const links = {
