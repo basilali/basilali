@@ -1,6 +1,6 @@
 
 ```javascript
-// Hello Word, my name is Basil Ali
+// Hello World, my name is Basil Ali
 
 const about_me = {
     "first_name": "Basil", 
