@@ -7,13 +7,14 @@ const about_me = {
     "first_name": "Basil", 
     "last_name": "Ali", 
     "location": "Ontario, Canada",
-    "role": "Software Dev Student",
-    "learning":
-        "How to build intelligent chatbots, " +
-        "design NLP systems, " +
-        "apply machine learning techniques, " +
-        "create goal-based agents, " +
-        "and critically assess real-world AI issues"
+    "role": "Software Developer",
+    "interests": [
+        "AI-powered automation",
+        "Machine learning for real-world impact",
+        "Full-stack web development",
+        "Early-stage startup building",
+        "Creating scalable digital products"
+    ]
 }
 
 const links = {
